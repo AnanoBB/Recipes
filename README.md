@@ -16,6 +16,8 @@ These instructions will get you a copy of the project up and running on your loc
 - [Room](https://developer.android.com/topic/libraries/architecture/room) - SQLite object mapping library.
 - [RecyclerView](https://developer.android.com/jetpack/androidx/releases/recyclerview) - Display large sets of data in your UI while minimizing memory usage.
 - [ViewBinding](https://developer.android.com/topic/libraries/view-binding) - Generates a binding class for each XML layout file present in that module and allows you to more easily write code that interacts with views.
+- [Retrofit](https://square.github.io/retrofit/) - A type-safe HTTP client for Android and Java
+
 
 
 🔨 Build and Run Application
